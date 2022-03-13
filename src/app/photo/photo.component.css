@@ -1,0 +1,19 @@
+.card {
+  max-width: 30rem;
+  min-width: 30rem;
+}
+
+.card-img-top {
+  width: 100%;
+}
+
+.btn {
+  max-width: 10rem;
+}
+
+.card-img-top {
+  display: flex;
+  height: 15rem;
+  margin: 0.3rem;
+  width: 100%;
+}
